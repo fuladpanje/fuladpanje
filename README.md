@@ -65,8 +65,8 @@ Software developer interested in building simple and useful applications with Fl
 <thead>
 <tr>
 <th align="center" width="14%">پروژه</th>
-<th align="center" width="22%">توضیح</th>
-<th align="center" width="50%">تکنولوژی</th>
+<th align="center" width="30%">توضیح</th>
+<th align="center" width="42%">تکنولوژی</th>
 <th align="center" width="14%">لینک</th>
 </tr>
 </thead>

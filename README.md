@@ -75,19 +75,19 @@ Software developer interested in building simple and useful applications with Fl
 <td align="center" valign="middle"><strong>شیفت چی</strong><br><sub>Shiftchi</sub></td>
 <td align="center" valign="middle">مدیریت شیفت، حقوق و کارکرد<br><sub><em>Shift &amp; salary management</em></sub></td>
 <td align="center" valign="middle"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"></td>
-<td align="center" valign="middle"><a href="https://github.com/fuladpanje/Shiftchi"><img src="https://img.shields.io/badge/View-7C4DFF?style=flat-square&logo=github&logoColor=white" alt="View"></a></td>
+<td align="center" valign="middle"><a href="https://github.com/fuladpanje/Shiftchi"><img src="https://img.shields.io/badge/View-FF5722?style=flat-square&logo=github&logoColor=white" alt="View"></a></td>
 </tr>
 <tr>
 <td align="center" valign="middle"><strong>دنگ چی</strong><br><sub>Dongchi</sub></td>
 <td align="center" valign="middle">تقسیم هزینه‌های گروهی<br><sub><em>Split group expenses</em></sub></td>
 <td align="center" valign="middle"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"></td>
-<td align="center" valign="middle"><a href="https://github.com/fuladpanje/dongchi"><img src="https://img.shields.io/badge/View-7C4DFF?style=flat-square&logo=github&logoColor=white" alt="View"></a></td>
+<td align="center" valign="middle"><a href="https://github.com/fuladpanje/dongchi"><img src="https://img.shields.io/badge/View-FF5722?style=flat-square&logo=github&logoColor=white" alt="View"></a></td>
 </tr>
 <tr>
 <td align="center" valign="middle"><strong>پورتا</strong><br><sub>Porta</sub></td>
 <td align="center" valign="middle">پورتفولیو و تحلیل بورس ایران<br><sub><em>Iran stock portfolio</em></sub></td>
 <td align="center" valign="middle"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"></td>
-<td align="center" valign="middle"><a href="https://github.com/fuladpanje/porta"><img src="https://img.shields.io/badge/View-7C4DFF?style=flat-square&logo=github&logoColor=white" alt="View"></a></td>
+<td align="center" valign="middle"><a href="https://github.com/fuladpanje/porta"><img src="https://img.shields.io/badge/View-FF5722?style=flat-square&logo=github&logoColor=white" alt="View"></a></td>
 </tr>
 </tbody>
 </table>
@@ -112,5 +112,5 @@ Software developer interested in building simple and useful applications with Fl
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fuladpanjeh&color=7C4DFF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=fuladpanjeh&color=FF5722&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>

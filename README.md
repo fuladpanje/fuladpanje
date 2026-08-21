@@ -75,13 +75,13 @@ Software developer interested in building simple and useful applications with Fl
 <td align="center" valign="middle"><strong>شیفت چی</strong><br><sub>Shiftchi</sub></td>
 <td align="center" valign="middle">مدیریت شیفت، حقوق و کارکرد<br><sub><em>Shift &amp; salary management</em></sub></td>
 <td align="center" valign="middle"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"></td>
-<td align="center" valign="middle"><a href="https://github.com/fuladpanje/Shiftchi"><img src="https://img.shields.io/badge/View-00E5FF?style=flat-square&logo=github&logoColor=white" alt="View"></a></td>
+<td align="center" valign="middle"><a href="https://github.com/fuladpanje/Shiftchi"><img src="https://img.shields.io/badge/View-7C4DFF?style=flat-square&logo=github&logoColor=white" alt="View"></a></td>
 </tr>
 <tr>
 <td align="center" valign="middle"><strong>دنگ چی</strong><br><sub>Dongchi</sub></td>
 <td align="center" valign="middle">تقسیم هزینه‌های گروهی<br><sub><em>Split group expenses</em></sub></td>
 <td align="center" valign="middle"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"></td>
-<td align="center" valign="middle"><a href="https://github.com/fuladpanje/dongchi"><img src="https://img.shields.io/badge/View-F7C948?style=flat-square&logo=github&logoColor=black" alt="View"></a></td>
+<td align="center" valign="middle"><a href="https://github.com/fuladpanje/dongchi"><img src="https://img.shields.io/badge/View-7C4DFF?style=flat-square&logo=github&logoColor=white" alt="View"></a></td>
 </tr>
 <tr>
 <td align="center" valign="middle"><strong>پورتا</strong><br><sub>Porta</sub></td>

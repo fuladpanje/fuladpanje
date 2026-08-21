@@ -18,7 +18,7 @@
 
 ---
 
-<h2 align="center">About Me | درباره من</h2>
+<h2 align="center" style="color:#FF5722;">About Me | درباره من</h2>
 
 <table>
 <tr>
@@ -39,7 +39,7 @@ Software developer interested in building simple and useful applications with Fl
 
 ---
 
-<h2 align="center">Skills | مهارت‌ها</h2>
+<h2 align="center" style="color:#FF5722;">Skills | مهارت‌ها</h2>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -59,7 +59,7 @@ Software developer interested in building simple and useful applications with Fl
 
 ---
 
-<h2 align="center">Featured Projects | پروژه‌های منتخب</h2>
+<h2 align="center" style="color:#FF5722;">Featured Projects | پروژه‌های منتخب</h2>
 
 <table align="center" dir="rtl" width="100%">
 <thead>
@@ -94,7 +94,7 @@ Software developer interested in building simple and useful applications with Fl
 
 ---
 
-<h2 align="center">Interests | علاقه‌مندی‌ها</h2>
+<h2 align="center" style="color:#FF5722;">Interests | علاقه‌مندی‌ها</h2>
 
 <section>
 <table width="100%" align="center">

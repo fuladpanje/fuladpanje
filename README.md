@@ -64,10 +64,10 @@ Software developer interested in building simple and useful applications with Fl
 <table align="center" dir="rtl" width="100%">
 <thead>
 <tr>
-<th align="center" width="14%">پروژه</th>
+<th align="center" width="13%">پروژه</th>
 <th align="center" width="30%">توضیح</th>
-<th align="center" width="42%">تکنولوژی</th>
-<th align="center" width="14%">لینک</th>
+<th align="center" width="44%">تکنولوژی</th>
+<th align="center" width="13%">لینک</th>
 </tr>
 </thead>
 <tbody>

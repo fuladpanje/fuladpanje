@@ -35,7 +35,7 @@ Software developer interested in building simple and useful applications with Fl
 ### 🇮🇷 فارسی
 توسعه‌دهنده نرم‌افزار علاقه‌مند به ساخت اپلیکیشن‌های ساده و کاربردی با Flutter، Laravel، React و Tailwind CSS. از خلق تجربه‌های کاربری تمیز، کاوش در فناوری‌های جدید و تبدیل ایده‌ها به پروژه‌های واقعی لذت می‌برم. همیشه در حال یادگیری، همیشه در حال ساختن.
 
-> *«زنده باد اشتباه خوب من»* / *«Long live my own good mistake»*
+> *«زنده باد اشتباه خوب من»* / *«Long live the best mistake I ever made»*
 
 </td>
 </tr>

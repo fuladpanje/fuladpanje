@@ -64,10 +64,10 @@ Software developer interested in building simple and useful applications with Fl
 <table align="center" dir="rtl" width="100%">
 <thead>
 <tr>
-<th align="center" width="13%">پروژه</th>
-<th align="center" width="30%">توضیح</th>
-<th align="center" width="44%">تکنولوژی</th>
-<th align="center" width="13%">لینک</th>
+<th align="center" width="18%">پروژه</th>
+<th align="center" width="38%">توضیح</th>
+<th align="center" width="30%">تکنولوژی</th>
+<th align="center" width="14%">لینک</th>
 </tr>
 </thead>
 <tbody>
@@ -86,7 +86,7 @@ Software developer interested in building simple and useful applications with Fl
 <tr>
 <td align="center" valign="middle"><strong>پورتا</strong><br><sub>Porta</sub></td>
 <td align="center" valign="middle">پورتفولیو و تحلیل بورس ایران<br><sub><em>Iran stock portfolio</em></sub></td>
-<td align="center" valign="middle" style="white-space:nowrap;"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"></td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"></td>
 <td align="center" valign="middle"><a href="https://github.com/fuladpanje/porta"><img src="https://img.shields.io/badge/View-7C4DFF?style=flat-square&logo=github&logoColor=white" alt="View"></a></td>
 </tr>
 </tbody>

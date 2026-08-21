@@ -41,6 +41,10 @@ Software developer interested in building simple and useful applications with Fl
 </tr>
 </table>
 
+<p align="center">
+  <sub>💻 برنامه‌نویسی &nbsp;·&nbsp; 🎵 موسیقی &nbsp;·&nbsp; 🎮 گیمینگ &nbsp;·&nbsp; 📚 طبیعت گردی &nbsp;·&nbsp; ☕ قهوه &nbsp;·&nbsp; 🎬 فیلم و سریال</sub>
+</p>
+
 ---
 
 <h2 align="center"><span style="color:#FF5722;">Skills | مهارت‌ها</span></h2>
@@ -95,23 +99,6 @@ Software developer interested in building simple and useful applications with Fl
 </tr>
 </tbody>
 </table>
-
----
-
-<h2 align="center"><span style="color:#FF5722;">Interests | علاقه‌مندی‌ها</span></h2>
-
-<section>
-<table width="100%" align="center">
-<tr>
-<td align="center">💻<br>برنامه‌نویسی</td>
-<td align="center">🎵<br>موسیقی</td>
-<td align="center">🎮<br>گیمینگ</td>
-<td align="center">📚<br>طبیعت گردی</td>
-<td align="center">☕<br>قهوه</td>
-<td align="center">🎬<br>فیلم و سریال</td>
-</tr>
-</table>
-</section>
 
 ---
 

@@ -63,62 +63,83 @@ Software developer interested in building simple and useful applications with Fl
 
 <section>
 <table width="100%" align="center">
+
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="100%">
+<table width="100%" align="center">
+<tr>
+<td width="50%" align="right" valign="middle">
 
-<h3>📱 شیفت چی <sub>Shiftchi</sub></h3>
-
+<h3>📱 شیفت چی &nbsp;<sub>Shiftchi</sub></h3>
 مدیریت شیفت، حقوق و کارکرد کارمندان<br>
-*Shift & salary management*
+<em>Shift &amp; salary management</em>
 
-<p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
-</p>
+</td>
+<td width="50%" align="left" valign="middle">
 
-<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"><br>
 <a href="https://github.com/fuladpanje/Shiftchi"><img src="https://img.shields.io/badge/View%20Code-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="View"></a>
 <img src="https://img.shields.io/github/stars/fuladpanje/Shiftchi?style=for-the-badge&color=00E5FF" alt="Stars">
-</p>
-
-</td>
-<td width="33%" align="center" valign="top">
-
-<h3>📱 دنگ چی <sub>Dongchi</sub></h3>
-
-تقسیم هزینه‌های گروهی به سادگی<br>
-*Split group expenses easily*
-
-<p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
-</p>
-
-<p>
-<a href="https://github.com/fuladpanje/dongchi"><img src="https://img.shields.io/badge/View%20Code-F7C948?style=for-the-badge&logo=github&logoColor=black" alt="View"></a>
-<img src="https://img.shields.io/github/stars/fuladpanje/dongchi?style=for-the-badge&color=F7C948" alt="Stars">
-</p>
-
-</td>
-<td width="33%" align="center" valign="top">
-
-<h3>💰 پورتا <sub>Porta</sub></h3>
-
-پورتفولیو و تحلیل بورس ایران<br>
-*Iran stock market portfolio*
-
-<p>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-</p>
-
-<p>
-<a href="https://github.com/fuladpanje/porta"><img src="https://img.shields.io/badge/View%20Code-7C4DFF?style=for-the-badge&logo=github&logoColor=white" alt="View"></a>
-<img src="https://img.shields.io/github/stars/fuladpanje/porta?style=for-the-badge&color=7C4DFF" alt="Stars">
-</p>
 
 </td>
 </tr>
+</table>
+</td>
+</tr>
+
+<tr><td><hr></td></tr>
+
+<tr>
+<td width="100%">
+<table width="100%" align="center">
+<tr>
+<td width="50%" align="right" valign="middle">
+
+<h3>📱 دنگ چی &nbsp;<sub>Dongchi</sub></h3>
+تقسیم هزینه‌های گروهی به سادگی<br>
+<em>Split group expenses easily</em>
+
+</td>
+<td width="50%" align="left" valign="middle">
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"><br>
+<a href="https://github.com/fuladpanje/dongchi"><img src="https://img.shields.io/badge/View%20Code-F7C948?style=for-the-badge&logo=github&logoColor=black" alt="View"></a>
+<img src="https://img.shields.io/github/stars/fuladpanje/dongchi?style=for-the-badge&color=F7C948" alt="Stars">
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr><td><hr></td></tr>
+
+<tr>
+<td width="100%">
+<table width="100%" align="center">
+<tr>
+<td width="50%" align="right" valign="middle">
+
+<h3>💰 پورتا &nbsp;<sub>Porta</sub></h3>
+پورتفولیو و تحلیل بورس ایران<br>
+<em>Iran stock market portfolio</em>
+
+</td>
+<td width="50%" align="left" valign="middle">
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"><br>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"><br>
+<a href="https://github.com/fuladpanje/porta"><img src="https://img.shields.io/badge/View%20Code-7C4DFF?style=for-the-badge&logo=github&logoColor=white" alt="View"></a>
+<img src="https://img.shields.io/github/stars/fuladpanje/porta?style=for-the-badge&color=7C4DFF" alt="Stars">
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
 </table>
 </section>
 

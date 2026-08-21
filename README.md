@@ -61,7 +61,7 @@ Software developer interested in building simple and useful applications with Fl
 
 <h2 align="center">Featured Projects | پروژه‌های منتخب</h2>
 
-<table align="center">
+<table align="center" dir="rtl">
 <thead>
 <tr>
 <th align="center">پروژه</th>

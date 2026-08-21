@@ -35,7 +35,7 @@ Software developer interested in building simple and useful applications with Fl
 ### 🇮🇷 فارسی
 توسعه‌دهنده نرم‌افزار علاقه‌مند به ساخت اپلیکیشن‌های ساده و کاربردی با Flutter، Laravel، React و Tailwind CSS. از خلق تجربه‌های کاربری تمیز، کاوش در فناوری‌های جدید و تبدیل ایده‌ها به پروژه‌های واقعی لذت می‌برم. همیشه در حال یادگیری، همیشه در حال ساختن.
 
-> *«اشتباه خوب»*
+> *«زنده باد اشتباه خوب من»* / *«Long live my own good mistake»*
 
 </td>
 </tr>
@@ -98,36 +98,6 @@ Software developer interested in building simple and useful applications with Fl
 
 <a href="https://github.com/fuladpanje/porta"><img src="https://img.shields.io/badge/➡️-7C4DFF?style=flat-square" alt="View"></a>
 
-</td>
-</tr>
-</table>
-</section>
-
----
-
-<h2 align="center">How I Work | روش کار من</h2>
-
-<section>
-<table width="100%" align="center">
-<tr>
-<td align="center" width="24%">
-  <strong>💡 ایده‌پردازی</strong><br><br>
-  بررسی نیازها<br>تحقیق کاربر<br>تحلیل رقبا
-</td>
-<td align="center" width="2%">→</td>
-<td align="center" width="24%">
-  <strong>🎨 طراحی</strong><br><br>
-  پروتوتایپ<br>طراحی UI/UX<br>تست کاربری
-</td>
-<td align="center" width="2%">→</td>
-<td align="center" width="24%">
-  <strong>⚡ توسعه</strong><br><br>
-  کد تمیز<br>مقیاس‌پذیر<br>مستندسازی
-</td>
-<td align="center" width="2%">→</td>
-<td align="center" width="24%">
-  <strong>🚀 انتشار</strong><br><br>
-  استقرار<br>بهینه‌سازی<br>بازخورد
 </td>
 </tr>
 </table>

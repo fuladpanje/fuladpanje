@@ -103,12 +103,12 @@ Software developer interested in building simple and useful applications with Fl
 <section>
 <table width="100%" align="center">
 <tr>
-<td align="center">💻 برنامه‌نویسی</td>
-<td align="center">🎵 موسیقی</td>
-<td align="center">🎮 گیمینگ</td>
-<td align="center">📚 طبیعت گردی</td>
-<td align="center">☕ قهوه</td>
-<td align="center">🎬 فیلم و سریال</td>
+<td align="center">💻<br>برنامه‌نویسی</td>
+<td align="center">🎵<br>موسیقی</td>
+<td align="center">🎮<br>گیمینگ</td>
+<td align="center">📚<br>طبیعت گردی</td>
+<td align="center">☕<br>قهوه</td>
+<td align="center">🎬<br>فیلم و سریال</td>
 </tr>
 </table>
 </section>

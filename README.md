@@ -31,7 +31,11 @@ Software developer interested in building simple and useful applications with Fl
 <td width="50%" dir="rtl" align="right" valign="top">
 
 ### 🇮🇷 فارسی
+<div align="justify" dir="rtl" style="text-align:justify;">
+
 توسعه‌دهنده نرم‌افزار علاقه‌مند به ساخت اپلیکیشن‌های ساده و کاربردی با Flutter، Laravel، React و Tailwind CSS. از خلق تجربه‌های کاربری تمیز، کاوش در فناوری‌های جدید و تبدیل ایده‌ها به پروژه‌های واقعی لذت می‌برم. همیشه در حال یادگیری، همیشه در حال ساختن.
+
+</div>
 
 </td>
 </tr>

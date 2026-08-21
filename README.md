@@ -64,34 +64,58 @@ Software developer interested in building simple and useful applications with Fl
 <section>
 <table width="100%" align="center">
 <tr>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-#### 📱 شیفت چی
-مدیریت شیفت و حقوق و کارکرد
+<h3>📱 شیفت چی <sub>Shiftchi</sub></h3>
 
-`Flutter`
+مدیریت شیفت، حقوق و کارکرد کارمندان<br>
+*Shift & salary management*
 
-<a href="https://github.com/fuladpanje/Shiftchi"><img src="https://img.shields.io/badge/➡️-00E5FF?style=flat-square" alt="View"></a>
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+</p>
 
-</td>
-<td width="33%" align="center">
-
-#### 📱 دنگ چی
-تقسیم هزینه گروهی
-
-`Flutter`
-
-<a href="https://github.com/fuladpanje/dongchi"><img src="https://img.shields.io/badge/➡️-F7C948?style=flat-square" alt="View"></a>
+<p>
+<a href="https://github.com/fuladpanje/Shiftchi"><img src="https://img.shields.io/badge/View%20Code-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="View"></a>
+<img src="https://img.shields.io/github/stars/fuladpanje/Shiftchi?style=for-the-badge&color=00E5FF" alt="Stars">
+</p>
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-#### 💰 پورتا
-پورتفولیو بورس ایران
+<h3>📱 دنگ چی <sub>Dongchi</sub></h3>
 
-`Laravel` `React` `Tailwind` `PHP`
+تقسیم هزینه‌های گروهی به سادگی<br>
+*Split group expenses easily*
 
-<a href="https://github.com/fuladpanje/porta"><img src="https://img.shields.io/badge/➡️-7C4DFF?style=flat-square" alt="View"></a>
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+</p>
+
+<p>
+<a href="https://github.com/fuladpanje/dongchi"><img src="https://img.shields.io/badge/View%20Code-F7C948?style=for-the-badge&logo=github&logoColor=black" alt="View"></a>
+<img src="https://img.shields.io/github/stars/fuladpanje/dongchi?style=for-the-badge&color=F7C948" alt="Stars">
+</p>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<h3>💰 پورتا <sub>Porta</sub></h3>
+
+پورتفولیو و تحلیل بورس ایران<br>
+*Iran stock market portfolio*
+
+<p>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+</p>
+
+<p>
+<a href="https://github.com/fuladpanje/porta"><img src="https://img.shields.io/badge/View%20Code-7C4DFF?style=for-the-badge&logo=github&logoColor=white" alt="View"></a>
+<img src="https://img.shields.io/github/stars/fuladpanje/porta?style=for-the-badge&color=7C4DFF" alt="Stars">
+</p>
 
 </td>
 </tr>

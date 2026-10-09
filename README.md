@@ -101,7 +101,7 @@ Software developer interested in building simple and useful applications with Fl
 <tr>
 <td align="center" valign="middle"><strong>ریت‌تری</strong><br><sub>RateTray</sub></td>
 <td align="center" valign="middle">نمایش زنده قیمت ارز در tray ویندوز<br><sub><em>Live currency price in Windows tray</em></sub></td>
-<td align="center" valign="middle"><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"></td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"></td>
 <td align="center" valign="middle"><a href="https://github.com/fuladpanje/ratetray"><img src="https://img.shields.io/badge/View-FF5722?style=flat-square&logo=github&logoColor=white" alt="View"></a></td>
 </tr>
 </tbody>

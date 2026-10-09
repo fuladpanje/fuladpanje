@@ -98,6 +98,12 @@ Software developer interested in building simple and useful applications with Fl
 <td align="center" valign="middle"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"></td>
 <td align="center" valign="middle"><a href="https://github.com/fuladpanje/porta"><img src="https://img.shields.io/badge/View-FF5722?style=flat-square&logo=github&logoColor=white" alt="View"></a></td>
 </tr>
+<tr>
+<td align="center" valign="middle"><strong>ریت‌تری</strong><br><sub>RateTray</sub></td>
+<td align="center" valign="middle">نمایش زنده قیمت ارز در tray ویندوز<br><sub><em>Live currency price in Windows tray</em></sub></td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"></td>
+<td align="center" valign="middle"><a href="https://github.com/fuladpanje/ratetray"><img src="https://img.shields.io/badge/View-FF5722?style=flat-square&logo=github&logoColor=white" alt="View"></a></td>
+</tr>
 </tbody>
 </table>
 
